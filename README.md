@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech CSE with **AI/ML Minor** @ NIELIT Deemed University
+- 🎓 B.Tech CSE with **AI/ML Minor** @ NIELIT Deemed to be University
 - 📍 From **Bihar, India** — dreaming big!
 - 🎯 Goal: Become best LLM Engineer
 - 🔭 Currently learning: **NumPy, Pandas, ML Fundamentals**
